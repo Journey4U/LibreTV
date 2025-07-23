@@ -138,10 +138,6 @@ const API_SITES = {
         api: 'https://p2100.net/api.php/provide/vod',
         name: '飘零资源',
     },
-        xinlang: {
-            api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
-            name: '新浪资源',
-        },
         lovedan: {
             api: 'https://lovedan.net/api.php/provide/vod',
             name: 'lovedan',
@@ -173,14 +169,6 @@ const API_SITES = {
         taopian: {
             api: 'https://taopianapi.com/cjapi/mc10/vod/json.html',
             name: '淘片',
-        },
-        hhzy: {
-            api: 'https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json',
-            name: '豪华资源',
-        },
-        huya: {
-            api: 'https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json',
-            name: '虎牙',
         },
         sdzy: {
             api: 'http://sdzyapi.com/api.php/provide/vod/at/xml',
