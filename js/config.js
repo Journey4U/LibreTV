@@ -138,7 +138,6 @@ const API_SITES = {
         api: 'https://p2100.net/api.php/provide/vod',
         name: '飘零资源',
     },
-    {
         xinlang: {
             api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
             name: '新浪资源',
